@@ -1,0 +1,12 @@
+/* :root{
+    --main-color:red;
+    --main-padding:30px;
+    --main-width:300px;
+    --main-height:250px;
+}
+div{
+    background-color: var(--main-color);
+    height: var(--main-height);
+    width: var(--main-width);
+    padding: var(--main-padding);
+} */
